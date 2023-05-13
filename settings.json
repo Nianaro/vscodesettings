@@ -32,15 +32,15 @@
     ]
   },
 
-  "workbench.colorCustomizations": {
-    "editor.background": "#3b3b3b", //"#262626
+   "workbench.colorCustomizations": {
+    "editor.background": "#323232", //"#262626
     "editor.lineHighlightBackground": "#3b3b3b",
     "editor.lineHighlightBorder": "#3b3b3b",
     "minimap.background": "#3b3b3b",
     "editorGroup.emptyBackground": "#3b3b3b",
     "editorGutter.background": "#3b3b3b",
     "scrollbarSlider.background": "#3e3e42",
-    "editor.selectionBackground": "#386088",
+    "editor.selectionBackground": "#386088",   
   }
   /* "workbench.colorCustomizations": {
     "editor.background": "#222525",//"#2d3031"
