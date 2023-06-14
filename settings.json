@@ -34,7 +34,7 @@
       },
       {
         "name": "Keywords",
-        "scope": "keyword, storage.modifier",
+        "scope": "keyword, storage.modifier, keyword.control",
         "settings": {
           "foreground": "#CC7832"
         }
